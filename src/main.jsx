@@ -14,7 +14,7 @@ import {
   About,
   Verify,
   Login,
-} from "./components";
+} from "@/src/components";
 
 import ReactGA from "react-ga";
 ReactGA.initialize("K6F7N5MR4K");
