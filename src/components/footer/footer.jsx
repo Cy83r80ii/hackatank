@@ -3,11 +3,8 @@ import "./footer.css";
 import { ReactComponent as Copyright } from "../../assets/copyright.svg";
 import { Margin } from "@mui/icons-material";
 const footer = () => {
-  const BATMAN = () => {
-     window.open("https://github.com/Cy83r80ii", "_self");
-  };
   const developedBy = () => {
-       window.open("https://kmadhesh143.github.io/madhesh.portfolio", "_self");
+       window.open("https://kmadhesh143.github.io/shadowctrlz", "_self");
     };
   return (
     <React.Fragment>
