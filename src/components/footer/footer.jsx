@@ -4,7 +4,7 @@ import { ReactComponent as Copyright } from "../../assets/copyright.svg";
 import { Margin } from "@mui/icons-material";
 const footer = () => {
   const developedBy = () => {
-       window.open("https://kmadhesh143.github.io/shadowctrlz", "_self");
+       window.open("https://github.com/shadowctrl/Hackatank", "_self");
     };
   return (
     <React.Fragment>
@@ -16,8 +16,8 @@ const footer = () => {
         </p>
         <p className="copyright">
           Developed & Maintained by 
-          <p onClick={BATMAN}> Cy83r80ii</p><p>,</p><div style= {{marginLeft: "6px"}}>
-          <p onClick={developedBy}>kmadhesh143</p></div>
+          <p onClick={BATMAN}> shadowctrlz</p><p>,</p><div style= {{marginLeft: "6px"}}>
+     
           
           
         </p>
